@@ -1,0 +1,44 @@
+# AR   -Project Project
+/AR-Project/[Ll]ibrary/
+/AR-Project/[Tt]emp/
+/AR-Project/[Oo]bj/
+/AR-Project/[Bb]uild/
+/AR-Project/[Bb]uilds/
+/AR-Project/[Ll]ogs/
+/AR-Project/[Uu]ser[Ss]ettings/
+/AR-Project/[Mm]emoryCaptures/
+/AR-Project/[Rr]ecordings/
+# Uncomment if you don't want to track Asset Store tools in AR -Project
+# /AR  -Project/[Aa]ssets/AssetStoreTools*
+/AR-Project/[Aa]ssets/Plugins/Editor/JetBrains*
+/AR-Project/.vs/
+/AR-Project/.gradle/
+/AR-Project/ExportedObj/
+/AR-Project/.consulo/
+/AR-Project/*.csproj
+/AR-Project/*.unityproj
+/AR-Project/*.sln
+/AR-Project/*.suo
+/AR-Project/*.tmp
+/AR-Project/*.user
+/AR-Project/*.userprefs
+/AR-Project/*.pidb
+/AR-Project/*.booproj
+/AR-Project/*.svd
+/AR-Project/*.pdb
+/AR-Project/*.mdb
+/AR-Project/*.opendb
+/AR-Project/*.VC.db
+/AR-Project/*.pidb.meta
+/AR-Project/*.pdb.meta
+/AR-Project/*.mdb.meta
+/AR-Project/sysinfo.txt
+/AR-Project/*.apk
+/AR-Project/*.aab
+/AR-Project/*.unitypackage
+/AR-Project/*.app
+/AR-Project/crashlytics-build.properties
+/AR-Project/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/AR-Project/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/AR-Project/[Aa]ssets/[Ss]treamingAssets/aa/*
+/AR-Project/Packages/com.ptc.vuforia.engine-10.21.3.tgz
